@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831309285540",
+    "project_id": "runninggame-94062",
+    "storage_bucket": "runninggame-94062.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831309285540:android:bfd3987e6fb67467de3e31",
+        "android_client_info": {
+          "package_name": "com.roche.techype"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA55Yy_1QWHlNGO1GjUavkqdUmjYDahiO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
